@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Excel files
+*.xlsx
+*.xls
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+backup_*
+*.bak
